@@ -54,10 +54,10 @@ Method used with Stream:
 .forEach - terminal operation  
 
 .map() use function (s->s.toUpperCase) accept an object and return a value . Map each item from the input stream to the result return by the function   
-
-Flat Map method: mapping one object to many  
-flatMap() accept a function that returns a Stream value, so we can pass an object ( - that contains a list) as the function argument and return a Stream containing several objects (- the items in the list).  
-
+  
+.flatMap() mapping one object to many.    
+ -  Accept a function that returns a Stream value, so we can pass an object ( - that contains a list) as the function argument and return a Stream containing several objects (- the items in the list).  
+ 
 collect() method – collect the elements in a Steam into a different type of result like a List.  
   
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git)
