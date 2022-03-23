@@ -4,7 +4,9 @@ Lambdas. Functions (java.util.function). Streams (java.util.stream)
 This is a study project for:   
 -  lambda expressions   
 -  some interfaces from java.util.function package: Consumer, Supplier, Predicate, Function;   
--  Stream interface from java.util.stream package     
+-  Stream interface from java.util.stream package  
+
+[BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git)
 
 
 ### Lambda Expressions  
