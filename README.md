@@ -50,7 +50,7 @@ If we want to save some results from a Stream we can use .collect() method as a 
   
 Method used with Stream:   
 .filter()  
-.sorted()
+.sorted()  
 .forEach - terminal operation  
 
 .map() use function (s->s.toUpperCase) accept an object and return a value . Map each item from the input stream to the result return by the function   
