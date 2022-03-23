@@ -15,7 +15,7 @@ When using lambdas?
 -  Iterate over a collection;  
 -  Method to Lambda:  java.util.function : Consumer, Supplier, Predicate, Function etc…   
  
-Lambda has 3 parts: argument list, arrow and body (code you want to run): (method parameters)-> {method body}  
+Lambda has 3 parts: argument list, arrow and code you want to run: (method parameters)-> {method body}  
 
 
 Scope and variables  
