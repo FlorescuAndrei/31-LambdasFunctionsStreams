@@ -44,7 +44,7 @@ Crate a stream:
 
 .stream() method was added to the collections class in Java8. This method creates a stream from a collection.   
   
-Stream  is a sequence of computation, intermediate operations eded with a terminal operation.  
+Stream  is a sequence of computation, intermediate operations end with a terminal operation.  
 Theterminal operation will execute the Stream (example forEach,  or .count).  
 Operations in the Stream are lazily evaluated. Intermediate operations are not performed until is a terminal operation.  
 After the terminal operation, the Stream can not be reused.   
